@@ -1,35 +1,4 @@
-.flex-container{
-    display:flex;
-    background-color: blue;
-    justify-content:center;
-    align-items:normal;
-    flex-direction: row;
-    height:500px;
-}
-
-.flex-item{
-    background-color: rgb(197, 57, 57);
-    width:110px;
-    height:80px;
-    color:white;
-}
-
-.nv-b{
-    font-size:30px;
-}
-
-.nv-n{
-    font-size:25px;
-}
-
-
-p{
+.title{
     text-align: center;
-    margin:1px;
-}
-
-.test{
-    background-color: aquamarine;
-    width:50vw;
-    height:30px;
+    font-size:30px;
 }
